@@ -374,7 +374,6 @@
     "Walmart": {
         "matches": [
             "Wal-Mart"
-            "Walmart Supercenter"
         ]
     },
     "Whole Foods": {
@@ -520,12 +519,6 @@
         "matches": [
             "star"
         ]
-    },
-    "TD Canada Trust": {
-		"matches": [
-			"TD bank"
-			"TD"
-		]
     },
     "Total": {
         "matches": [
@@ -1141,5 +1134,10 @@
         "tags": {
             "name:en": "Cafe de CRIE"
         }
+    },
+        "TD Canada Trust": {
+		"matches": [
+			"TD bank"
+		]
     }
 }
